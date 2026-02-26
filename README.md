@@ -4,8 +4,25 @@
 I am currently building my skills in Software Development with a focus on Object-Oriented Programming and Java. I'm actively looking for entry-level IT/Support roles to apply my technical troubleshooting and coding skills in a professional environment.
 
 - 🛠️ **Current Focus:** Java, OOP Design, and System Documentation.
-- 🔭 **Project Highlight:** WorldWanderer Travel Portal (Java Skeleton Code).
-- 📫 **How to reach me:** [Link your LinkedIn or Email]
+- 🔭 **Project Highlight:** WorldWanderer Travel Portal classDiagram
+    class Flight {
+        +String flightNumber
+        +String airline
+        +double price
+        +displayDetails()
+    }
+    class SearchCriteria {
+        +String destination
+        +Date date
+        +int passengers
+    }
+    class FlightComparisonModule {
+        +list<Flight> results
+        +comparePrices()
+    }
+    FlightComparisonModule --> Flight : manages
+    FlightComparisonModule ..> SearchCriteria : uses.
+- 📫 **How to reach me:** www.linkedin.com/in/devanshgambhir55555
 - 🐾 **Fun Fact:** I'm a fan of Capybaras—the most chill animals in nature and tech.
 
 ### Tech Stack
