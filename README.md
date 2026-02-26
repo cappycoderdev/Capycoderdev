@@ -5,6 +5,10 @@ I am currently building my skills in Software Development with a focus on Object
 
 - 🛠️ **Current Focus:** Java, OOP Design, and System Documentation.
 - 🔭 **Project Highlight:** WorldWanderer Travel Portal classDiagram
+ - 🔭 **Project Highlight:** WorldWanderer Travel Portal
+
+```mermaid
+classDiagram
     class Flight {
         +String flightNumber
         +String airline
@@ -16,12 +20,6 @@ I am currently building my skills in Software Development with a focus on Object
         +Date date
         +int passengers
     }
-    class FlightComparisonModule {
-        +list<Flight> results
-        +comparePrices()
-    }
-    FlightComparisonModule --> Flight : manages
-    FlightComparisonModule ..> SearchCriteria : uses.
 - 📫 **How to reach me:** www.linkedin.com/in/devanshgambhir55555
 - 🐾 **Fun Fact:** I'm a fan of Capybaras—the most chill animals in nature and tech.
 
