@@ -1,27 +1,25 @@
-# Hi, I'm Dev 👋
-### Software Development Student | Java Enthusiast | Melbourne, VIC
 
-I am currently building my skills in Software Development with a focus on Object-Oriented Programming and Java. I'm actively looking for entry-level IT/Support roles to apply my technical troubleshooting and coding skills in a professional environment.
 
-- 🛠️ **Current Focus:** Java, OOP Design, and System Documentation.
-- 🤝 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/devanshgambhir55555)
-- 🔭 **Project Highlight:** WorldWanderer Travel Portal
+Hi! I’m Devansh, a final-year **Bachelor of IT student at RMIT University** with a minor in **Data Science**.  
+
+I’m passionate about **networking, cloud computing, and software development**, and I love turning concepts I learn into **hands-on projects**.  
+
+Currently, I’m:
+
+- Completing the **Google IT Support Professional Certificate**
+- Studying for the **AWS Cloud Practitioner Certification**
+- Exploring **Python and Java** for automation and scripting
+- Building projects that combine **networking, cloud, and coding**
+
+---
+
+## 🐾 Meet Cappybara Dev (Fun Diagram!)
+
 ```mermaid
-classDiagram
-    class Flight {
-        +String flightNumber
-        +String airline
-        +double price
-        +displayDetails()
-    }
-    class SearchCriteria {
-        +String destination
-        +Date date
-        +int passengers
-    }
-    class FlightComparisonModule {
-        +list<Flight> results
-        +comparePrices()
-    }
-    FlightComparisonModule --> Flight : manages
-    FlightComparisonModule ..> SearchCriteria : uses
+flowchart TD
+    A[🟤 Cappybara Dev] --> B[Loves to code 💻]
+    B --> C[Python 🐍]
+    B --> D[Java ☕]
+    B --> E[Networking 🌐]
+    B --> F[Cloud ☁️]
+    A --> G[Loves learning new skills 📚]
