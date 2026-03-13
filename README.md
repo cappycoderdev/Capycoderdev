@@ -10,6 +10,7 @@ Currently, I’m:
 - Studying for the **AWS Cloud Practitioner Certification**
 - Exploring **Python and Java** for automation and scripting
 - Building projects that combine **networking, cloud, and coding**
+- connect with me at [LinkedIn](https://www.linkedin.com/in/devanshgambhir55555)
 
 ---
 
