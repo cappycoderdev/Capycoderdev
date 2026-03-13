@@ -13,11 +13,10 @@ Currently, I’m:
 
 ---
 
-## 🐾 Meet Cappybara Dev (Fun Diagram!)
 
 ```mermaid
 flowchart TD
-    A[🟤 Cappybara Dev] --> B[Loves to code 💻]
+    A[ Dev] --> B[Loves to code 💻]
     B --> C[Python 🐍]
     B --> D[Java ☕]
     B --> E[Networking 🌐]
